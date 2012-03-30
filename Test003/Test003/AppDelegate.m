@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  TestHello
+//  Test003
 //
-//  Created by 耶也 東丸 on 12/03/27.
+//  Created by 耶也 東丸 on 12/03/28.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 
@@ -23,7 +23,7 @@
     // Override point for customization after application launch.
     return YES;
 }
-							
+
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
